@@ -1,0 +1,11 @@
+Spectral Analysis Randomiser
+
+Core functionality:
+1. Load in an audio file
+2. Perform spectral analysis
+3. Randomise the pitches of the blocks
+4. Loop the audio file while randomising the pitches (extra: randomising the block sizes)
+
+Ideal:
+1. Ability to have multiple audio files loaded in
+2. Ability to drag in audio assets
